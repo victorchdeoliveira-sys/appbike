@@ -16,7 +16,7 @@
         app:navigationIcon="@drawable/baseline_arrow_back"
         app:title="Bike0n App"
         app:subtitle="Bikes e Acessorios"
+        app:menu="@menu/menu"
         />
-
 
 </LinearLayout>
